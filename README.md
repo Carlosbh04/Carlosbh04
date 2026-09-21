@@ -4,30 +4,27 @@
 
 ### Frontend Developer
 
-Construyo interfaces modernas, accesibles y bien estructuradas, con foco en lógica sólida, experiencia de usuario y calidad del código.
+<p>
+Construyo productos web modernos, responsive y mantenibles,<br>
+combinando <b>interfaz, lógica, arquitectura y testing</b>.
+</p>
 
 <br>
 
 <a href="https://github.com/carlosbh04">
-  <img src="https://img.shields.io/badge/GitHub-carlosbh04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Próximamente-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Próximamente-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/GitHub-carlosbh04-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=E879F9)
-![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=FACC15)
-![Node.js](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=A3E635)
-![Testing](https://img.shields.io/badge/Testing-111827?style=for-the-badge&logo=vitest&logoColor=F472B6)
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=E879F9" alt="React">
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FACC15" alt="JavaScript">
+<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=A3E635" alt="Node">
+<img src="https://img.shields.io/badge/Testing-18181B?style=flat-square&logo=vitest&logoColor=F472B6" alt="Testing">
 
-<br>
+<br><br>
 
-`Madrid, Spain` • `Frontend Development` • `Open to opportunities`
+<sub>Madrid, Spain · Frontend Development</sub>
 
 </div>
 
@@ -35,280 +32,385 @@ Construyo interfaces modernas, accesibles y bien estructuradas, con foco en lóg
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+
+<td width="55%" valign="top">
 
 ## Sobre mí
 
-Soy desarrollador frontend enfocado en construir productos web modernos, funcionales y mantenibles.
+Soy **Frontend Developer** enfocado en desarrollar interfaces modernas, responsive y funcionales.
 
-Trabajo principalmente con **JavaScript y React**, cuidando especialmente:
+Trabajo principalmente con **JavaScript y React**, intentando mantener una separación clara entre interfaz, estado y lógica.
+
+Me interesa especialmente trabajar en:
 
 - arquitectura frontend;
-- responsive design;
 - experiencia de usuario;
-- accesibilidad;
 - rendimiento;
-- testing automatizado.
-
-Me interesa crear interfaces que no solo se vean bien, sino que estén bien pensadas y sean fáciles de mantener.
+- accesibilidad;
+- testing automatizado;
+- código mantenible.
 
 </td>
-<td width="50%" valign="top">
 
-## En qué me enfoco
+<td width="45%" valign="top">
 
-- **React**
-- **JavaScript**
-- **Testing**
-- **UI / UX**
-- **Performance**
-- **Accesibilidad**
-- **Arquitectura frontend**
-- **Código mantenible**
+## Actualmente
+
+**Construyendo**
+
+`CodeGym`
+
+Plataforma de entrenamiento práctico para desarrolladores.
 
 <br>
 
-```javascript
-const developer = {
-  name: "Carlos Hernández",
-  role: "Frontend Developer",
-  focus: ["React", "JavaScript", "Testing", "UI/UX"],
-  building: "better web products",
-};
-```
+**Profundizando en**
+
+`React Architecture`  
+`Advanced JavaScript`  
+`Node.js`  
+`Automated Testing`  
+`Web Performance`
 
 </td>
+
 </tr>
 </table>
 
 ---
 
+<div align="center">
+
 ## Proyectos destacados
+
+Tres proyectos que representan diferentes áreas de mi trabajo.
+
+</div>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top">
+
+<td width="33%" align="center" valign="top">
 
 ### CodeGym
 
-**Plataforma de entrenamiento de programación**
+**Programming Training Platform**
 
-Aplicación orientada a la práctica real, sesiones, progreso y ejercicios interactivos.
+Aplicación orientada al entrenamiento práctico mediante ejercicios, sesiones y seguimiento del progreso.
 
-**Stack**
-- React
-- JavaScript
-- Vite
-- Node.js
-- Prisma
-- Vitest
-- Playwright
+<br>
 
-**Destacado**
-- autenticación;
-- progreso del usuario;
-- recuperación de sesión;
-- motor de ejercicios;
-- testing unitario, integración y E2E.
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=E879F9" alt="React">
+<img src="https://img.shields.io/badge/Node.js-18181B?style=flat-square&logo=node.js&logoColor=A3E635" alt="Node">
+<img src="https://img.shields.io/badge/Prisma-18181B?style=flat-square&logo=prisma&logoColor=white" alt="Prisma">
 
-[**Ver repositorio →**](#)
+<br><br>
+
+<p align="left">
+✓ Autenticación y sesiones<br>
+✓ Seguimiento de progreso<br>
+✓ Motor de ejercicios<br>
+✓ Persistencia de estado<br>
+✓ Unit, Integration & E2E tests
+</p>
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Repositorio-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio CodeGym">
+</a>
 
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" align="center" valign="top">
 
 ### Oysters AI
 
 **Corporate Website**
 
-Sitio corporativo para una agencia especializada en IA y marketing.
+Web corporativa para una agencia especializada en inteligencia artificial y marketing.
 
-**Stack**
-- React
-- JavaScript
-- Vite
-- React Router
-- CSS
+<br>
 
-**Destacado**
-- responsive UI;
-- SEO por rutas;
-- accesibilidad;
-- performance;
-- optimización multimedia;
-- arquitectura de componentes.
+<img src="https://img.shields.io/badge/React-18181B?style=flat-square&logo=react&logoColor=E879F9" alt="React">
+<img src="https://img.shields.io/badge/Vite-18181B?style=flat-square&logo=vite&logoColor=F0ABFC" alt="Vite">
+<img src="https://img.shields.io/badge/CSS-18181B?style=flat-square&logo=css&logoColor=F472B6" alt="CSS">
 
-[**Ver repositorio →**](#)
+<br><br>
+
+<p align="left">
+✓ Responsive Design<br>
+✓ SEO por rutas<br>
+✓ Accesibilidad<br>
+✓ Web Performance<br>
+✓ Arquitectura de componentes
+</p>
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Repositorio-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio Oysters">
+</a>
 
 </td>
-<td width="33%" valign="top">
+
+<td width="33%" align="center" valign="top">
 
 ### Tic Tac Toe
 
 **Vanilla JavaScript Game**
 
-Juego clásico de tres en raya desarrollado sin frameworks.
+Juego clásico desarrollado sin frameworks para trabajar fundamentos de JavaScript.
 
-**Stack**
-- HTML5
-- CSS3
-- JavaScript
+<br>
 
-**Destacado**
-- manipulación del DOM;
-- lógica de juego;
-- gestión de turnos;
-- detección de victoria y empate;
-- estado de partida.
+<img src="https://img.shields.io/badge/HTML5-18181B?style=flat-square&logo=html5&logoColor=E879F9" alt="HTML">
+<img src="https://img.shields.io/badge/CSS3-18181B?style=flat-square&logo=css&logoColor=F0ABFC" alt="CSS">
+<img src="https://img.shields.io/badge/JavaScript-18181B?style=flat-square&logo=javascript&logoColor=FACC15" alt="JavaScript">
 
-[**Ver repositorio →**](#)
+<br><br>
+
+<p align="left">
+✓ DOM manipulation<br>
+✓ Gestión del estado<br>
+✓ Sistema de turnos<br>
+✓ Detección de victoria<br>
+✓ Lógica de juego
+</p>
+
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/Repositorio-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Repositorio Tic Tac Toe">
+</a>
 
 </td>
+
 </tr>
 </table>
 
+<br>
+
+<div align="center">
+<sub>Más proyectos disponibles en mis repositorios.</sub>
+</div>
+
 ---
+
+<div align="center">
 
 ## Tech Stack
 
+</div>
+
 <table width="100%">
 <tr>
+
 <td width="25%" align="center" valign="top">
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=js,react,html,css,vite,tailwind,bootstrap&perline=4" alt="Frontend stack" />
+<img src="https://skillicons.dev/icons?i=js,react,html,css,vite,tailwind,bootstrap&perline=4" alt="Frontend">
 
 </td>
+
 <td width="25%" align="center" valign="top">
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql&perline=4" alt="Backend stack" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql&perline=4" alt="Backend">
 
 </td>
+
 <td width="25%" align="center" valign="top">
 
 ### Testing
 
-<img src="https://skillicons.dev/icons?i=vitest&perline=4" alt="Testing stack" />
+<img src="https://skillicons.dev/icons?i=vitest&perline=3" alt="Testing">
 
 <br><br>
 
-`Vitest`  
-`Playwright`  
+`Vitest`
+
+`Playwright`
+
 `Testing Library`
 
 </td>
+
 <td width="25%" align="center" valign="top">
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,photoshop&perline=4" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,figma,photoshop&perline=4" alt="Tools">
 
 </td>
+
 </tr>
 </table>
 
 ---
-
-## Cómo intento construir
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Principios
-
-1. Separar lógica y presentación  
-2. Mantener el estado predecible  
-3. Evitar componentes innecesariamente complejos  
-4. Diseñar responsive desde el componente  
-5. Verificar comportamiento con pruebas  
-6. Medir antes de optimizar  
-
-</td>
-<td width="50%" valign="top">
-
-### Objetivo técnico
-
-- UI clara
-- lógica predecible
-- arquitectura mantenible
-- testing fiable
-- buen rendimiento
-- accesibilidad real
-
-<br>
-
-> **Buen producto = buena UI + buena lógica + buena arquitectura + pruebas**
-
-</td>
-</tr>
-</table>
-
----
-
-## Actualmente
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### Construyendo
-
-**CodeGym**
-
-Plataforma para entrenar programación mediante práctica real, sesiones, progreso y ejercicios interactivos.
-
-</td>
-<td width="50%" valign="top">
-
-### Profundizando en
-
-- React Architecture
-- Advanced JavaScript
-- Node.js
-- Automated Testing
-- Web Performance
-- Application Security
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=carlosbh04&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f5f5f7&icon_color=e879f9&text_color=c9d1d9&rank_icon=github" alt="GitHub stats" />
+## Cómo trabajo
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosbh04&layout=compact&hide_border=true&bg_color=0d1117&title_color=f5f5f7&text_color=c9d1d9" alt="Top languages" />
+</div>
+
+<table width="100%">
+<tr>
+
+<td width="25%" align="center" valign="top">
+
+### 01
+
+**Arquitectura**
+
+Componentes con responsabilidades claras y separación entre UI, estado y lógica.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 02
+
+**Testing**
+
+Pruebas unitarias, integración y E2E para reducir regresiones.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 03
+
+**Performance**
+
+Optimización basada en comportamiento real y medición.
+
+</td>
+
+<td width="25%" align="center" valign="top">
+
+### 04
+
+**Accessibility**
+
+Interfaces utilizables, responsive y accesibles mediante teclado.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+## Frontend
+
+```text
+UI
+ ↓
+Components
+ ↓
+State
+ ↓
+Business Logic
+ ↓
+Data
+```
+
+Intento mantener cada responsabilidad en el lugar correcto para evitar componentes difíciles de mantener.
+
+</td>
+
+<td width="50%" valign="top">
+
+## Quality
+
+```text
+Development
+     ↓
+Unit Tests
+     ↓
+Integration Tests
+     ↓
+E2E Tests
+     ↓
+Reliable Product
+```
+
+El objetivo del testing no es tener más tests, sino comprobar el comportamiento que realmente importa.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## Herramientas y tecnologías
+
+<br>
+
+**Frontend**
+
+JavaScript · React · HTML5 · CSS3 · Tailwind CSS · Bootstrap · Vite
+
+<br>
+
+**Backend**
+
+Node.js · Express · Prisma · MySQL
+
+<br>
+
+**Testing**
+
+Vitest · Playwright · Testing Library
+
+<br>
+
+**Development**
+
+Git · GitHub · VS Code · npm · Postman · Chrome DevTools
+
+<br>
+
+**Design**
+
+Figma · Photoshop
 
 </div>
 
 ---
 
-## Contacto
-
 <div align="center">
 
+## Contacto
+
+Actualmente estoy construyendo nuevos proyectos y profundizando en desarrollo frontend.
+
+<br>
+
 <a href="https://github.com/carlosbh04">
-  <img src="https://img.shields.io/badge/GitHub-carlosbh04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Próximamente-181717?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
-</a>
-<a href="#">
-  <img src="https://img.shields.io/badge/LinkedIn-Próximamente-181717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/carlosbh04-18181B?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <br><br>
 
-**Carlos Hernández**  
+**Carlos Hernández**
+
 Frontend Developer · Madrid, Spain
 
-<sub>Pequeños commits. Mejores productos.</sub>
+<br>
+
+<sub>Build · Test · Improve</sub>
 
 </div>
